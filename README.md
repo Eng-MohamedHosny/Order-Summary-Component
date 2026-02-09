@@ -9,7 +9,7 @@ The goal of this challenge is to build an Order Summary Component as close as po
 
 
 ### Links
-- Live Site: https://mentor-order-summary-component.netlify.app/
+- Live Site: https://eng-mohamedhosny.github.io/Order-Summary-Component/
 - Repository: https://github.com/Eng-MohamedHosny/Order-Summary-Component
 
 ---
